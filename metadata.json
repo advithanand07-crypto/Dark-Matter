@@ -1,0 +1,6 @@
+{
+  "name": "FloodGuard AI",
+  "description": "Autonomous Disaster Response Coordination System powered by multi-agent AI for flood emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
